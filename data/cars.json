@@ -1,0 +1,42 @@
+[
+    {
+        "taxRate": 10,
+        "model": "Toyota Vitz",
+        "freeKm": 100,
+        "category": "Compact Petrol",
+        "extraKmRate": 50,
+        "carId": "C001",
+        "dailyRate": 5000,
+        "status": "Available"
+    },
+    {
+        "taxRate": 12,
+        "model": "Toyota Aqua",
+        "freeKm": 150,
+        "category": "Hybrid",
+        "extraKmRate": 60,
+        "carId": "C002",
+        "dailyRate": 7500,
+        "status": "Reserved"
+    },
+    {
+        "taxRate": 8,
+        "model": "Nissan Leaf",
+        "freeKm": 200,
+        "category": "Electric",
+        "extraKmRate": 40,
+        "carId": "C003",
+        "dailyRate": 10000,
+        "status": "Under Maintenance"
+    },
+    {
+        "taxRate": 15,
+        "model": "BMW X1",
+        "freeKm": 250,
+        "category": "Luxury SUV",
+        "extraKmRate": 75,
+        "carId": "C004",
+        "dailyRate": 15000,
+        "status": "Available"
+    }
+]

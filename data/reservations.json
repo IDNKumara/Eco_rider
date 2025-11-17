@@ -1,0 +1,56 @@
+[
+    {
+        "createdDate": "2025-11-08",
+        "reservationId": "455698f5",
+        "customerNic": "R10005",
+        "numberOfDays": 2,
+        "totalKm": 500,
+        "startDate": "2025-11-15",
+        "carId": "C001"
+    },
+    {
+        "createdDate": "2025-11-15",
+        "reservationId": "a9a94c71",
+        "customerNic": "123456789",
+        "numberOfDays": 1,
+        "totalKm": 150,
+        "startDate": "2025-11-22",
+        "carId": "C004"
+    },
+    {
+        "createdDate": "2025-11-15",
+        "reservationId": "8abc5c06",
+        "customerNic": "1234",
+        "numberOfDays": 3,
+        "totalKm": 450,
+        "startDate": "2025-11-21",
+        "carId": "C001"
+    },
+    {
+        "createdDate": "2025-11-17",
+        "reservationId": "4f4189b3",
+        "customerNic": "111111111V",
+        "numberOfDays": 3,
+        "totalKm": 450,
+        "startDate": "2025-11-21",
+        "carId": "C003"
+    },
+    {
+        "createdDate": "2025-11-17",
+        "reservationId": "43b1a527",
+        "customerNic": "932261839V",
+        "numberOfDays": 3,
+        "totalKm": 450,
+        "startDate": "2025-11-20",
+        "carId": "C003"
+    },
+    {
+        "createdDate": "2025-11-17",
+        "reservationId": "9530806b",
+        "customerNic": "932261839V",
+        "numberOfDays": 2,
+        "totalKm": 300,
+        "startDate": "2025-11-21",
+        "carId": "C003"
+    }
+]
