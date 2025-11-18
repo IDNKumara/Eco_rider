@@ -43,14 +43,5 @@
         "totalKm": 450,
         "startDate": "2025-11-20",
         "carId": "C003"
-    },
-    {
-        "createdDate": "2025-11-17",
-        "reservationId": "9530806b",
-        "customerNic": "932261839V",
-        "numberOfDays": 2,
-        "totalKm": 300,
-        "startDate": "2025-11-21",
-        "carId": "C003"
     }
 ]

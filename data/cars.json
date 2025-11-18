@@ -27,7 +27,7 @@
         "extraKmRate": 40,
         "carId": "C003",
         "dailyRate": 10000,
-        "status": "Under Maintenance"
+        "status": "Available"
     },
     {
         "taxRate": 15,
@@ -37,6 +37,6 @@
         "extraKmRate": 75,
         "carId": "C004",
         "dailyRate": 15000,
-        "status": "Available"
+        "status": "Under Maintenance"
     }
 ]
